@@ -1,0 +1,9 @@
+{
+    "title": "",
+    "background_url": "",
+    "minecraft": {
+        "start_command": "",
+        "server_location": ""
+    },
+    "port": 8000
+}
